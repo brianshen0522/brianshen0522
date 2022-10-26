@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brianshen0522
-- 👀 I’m interested in coding,leep learning,networking
+- 👀 I’m interested in coding,Deep learning,networking
 - 🌱 I’m currently learning cisco
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me brianshen0522@gmail.com
